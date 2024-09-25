@@ -42,7 +42,7 @@ const sum = (a,b) => {
     return a + b
 }
 
-// Just a console log for ourselves
+// Just a console log for ourselve
 console.log(sum(7,3))
 
 // Export the function to be used on other files 
